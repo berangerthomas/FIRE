@@ -1,2 +1,2 @@
 # FIRE
-Fashion Image REcognition
+Fashion Images REcognition
