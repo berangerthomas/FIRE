@@ -3,4 +3,4 @@ val: /chemin/vers/images/validation
 test: /chemin/vers/images/test  # optionnel
 
 nc:   # nombre de classes
-names: ['chemise', 'pantalon', 'chaussure', 'robe', 'chapeau', 'short', 'gant'] # noms des classes
+names: ['chemise', 'pantalon', 'chaussure', 'robe', 'chapeau', 'short', 'gant'] # noms des classes, 30 images par classe. Répartition : 20 train, 5 test, 5 validation
