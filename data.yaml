@@ -3,4 +3,4 @@ val: /chemin/vers/images/validation
 test: /chemin/vers/images/test  # optionnel
 
 nc:   # nombre de classes
-names: ['chemise', 'pull', 'pantalon', 'chaussure', 'robe', 'écharpe', 'chapeau', 'short', 'gant'] # noms des classes
+names: ['chemise', 'pantalon', 'chaussure', 'robe', 'chapeau', 'short', 'gant'] # noms des classes
