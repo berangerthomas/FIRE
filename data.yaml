@@ -1,9 +1,11 @@
-train: /chemin/vers/images/entrainement
-val: /chemin/vers/images/validation
-test: /chemin/vers/images/test  # optionnel
+names:
+- short
+- veste
+nc: 2
+test: test\images
+train: train\images
+val: valid\images
 
-nc:   # nombre de classes
-names: ['chemise', 'pantalon', 'chaussure', 'robe', 'chapeau', 'short', 'veste'] # noms des classes, 30 images par classe. Répartition : 20 train, 5 test, 5 validation.
 # Lansanna : chemise, pantalon, chaussure
 # Linh Nhi : robe chapeau
 # Béranger : short veste
