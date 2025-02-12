@@ -1,7 +1,5 @@
-names:
-- short
-- veste
-nc: 2
+nc: 7
+names: ['chapeau', 'chaussure', 'chemise', 'pantalon', 'robe', 'short', 'veste']
 test: test\images
 train: train\images
 val: valid\images
